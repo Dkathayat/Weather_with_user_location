@@ -5,6 +5,14 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+
+    <color name="darkgrey">#595959</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="sunny">#4b92c8</color>
+    <color name="cardSunny">#BD1B73B5</color>
+    <color name="night">#4C4E63</color>
+    <color name="cardNight">#6D707F</color>
+    <color name="grey">#4C4E52</color>
+    <color name="main_color">#4b92c8</color>
 </resources>
